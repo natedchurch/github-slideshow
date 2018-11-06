@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-This is a rough draft of slide two.
+Changing source from a web application is a new experience for me.
 Use the left arrow to go back!
